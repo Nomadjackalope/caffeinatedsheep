@@ -1,3 +1,11 @@
+## Pretty much overriding everything
+ios/
+desktop/
+gradle/
+core/build
+core/build.gradle
+core/core.iml
+
 ## Java
 
 *.class
@@ -22,12 +30,21 @@ android/libs/armeabi/
 android/libs/armeabi-v7a/
 android/libs/x86/
 android/gen/
+android/build/
+android/res/values/
+android/src/
+*.apk
+*.gradle
+android/proguard-project.txt
+*.properties
 .idea/
 *.ipr
 *.iws
 *.iml
 out/
 com_crashlytics_export_strings.xml
+*.bat
+gradlew
 
 ## Eclipse
 .classpath
