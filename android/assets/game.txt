@@ -1,0 +1,98 @@
+{
+scoresD: {
+	11: [
+		{
+			class: java.lang.String
+			value: Guest
+		}
+	]
+	12: [
+		{
+			class: java.lang.String
+			value: bob
+		}
+	]
+	2: [
+		{
+			class: java.lang.String
+			value: fred
+		}
+		{
+			class: java.lang.String
+			value: fred
+		}
+		{
+			class: java.lang.String
+			value: fred
+		}
+		{
+			class: java.lang.String
+			value: fred
+		}
+		{
+			class: java.lang.String
+			value: fred
+		}
+		{
+			class: java.lang.String
+			value: Guest
+		}
+		{
+			class: java.lang.String
+			value: Guest
+		}
+	]
+	24: [
+		{
+			class: java.lang.String
+			value: fred
+		}
+	]
+	3: [
+		{
+			class: java.lang.String
+			value: Guest
+		}
+		{
+			class: java.lang.String
+			value: Guest
+		}
+	]
+	4: [
+		{
+			class: java.lang.String
+			value: Guest
+		}
+		{
+			class: java.lang.String
+			value: bob
+		}
+	]
+	5: [
+		{
+			class: java.lang.String
+			value: fred
+		}
+		{
+			class: java.lang.String
+			value: Guest
+		}
+	]
+	6: [
+		{
+			class: java.lang.String
+			value: Guest
+		}
+	]
+	8: [
+		{
+			class: java.lang.String
+			value: Guest
+		}
+		{
+			class: java.lang.String
+			value: Guest
+		}
+	]
+}
+}

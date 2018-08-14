@@ -1,0 +1,20 @@
+[
+{
+	class: com.nomadjackalope.caffeinatedsheep.User
+	name: Guest
+	money: 893
+	id: 7
+	isActive: true
+}
+{
+	class: com.nomadjackalope.caffeinatedsheep.User
+	name: bob
+	money: 82
+	id: 1
+}
+{
+	class: com.nomadjackalope.caffeinatedsheep.User
+	name: tom
+	id: 2
+}
+]
